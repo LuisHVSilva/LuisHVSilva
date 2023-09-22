@@ -4,6 +4,7 @@ Me chamo Luis e sou brasileiro. (English text at the bottom of the page)
   ⚡ Já começando com um fato engraçado: sou engenheiro mecânico como formação, mas a mais de 3 anos na área de atuação profissional completamente apaixonado pela     programação, evoluindo meu conhecimento com diversos cursos na área.<br>
   🔭 Atualmente trabalhando na Tata Consuntancy Service, projeto global da Alemanha em java, focando em conectores e testes para transação bancária.<br>
 <div><br>
+<h3><b>English Texts<b></h3>
 
 <div> 
 <h3><b>📫Contato/Contact</b></h3>  
@@ -31,9 +32,6 @@ Me chamo Luis e sou brasileiro. (English text at the bottom of the page)
   <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">  
 </div>
 
-<hr>
-  <h2><b>English Texts<b></h2>
-<hr>
 <h1><b>Hey Hey, everybody!! How is going?</b></h1>
 I'm Luis, brazilian.
 <div>
